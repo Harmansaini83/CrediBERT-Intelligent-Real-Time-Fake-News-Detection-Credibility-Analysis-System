@@ -1,5 +1,8 @@
 # CrediBERT – Intelligent Fake News Detection System
 
+Google Colab file link : https://colab.research.google.com/drive/1IgrdjB7-fZ6A4TZztxYE99hSFaza0XS9?usp=sharing
+
+
 CrediBERT is an AI-powered fake news detection and credibility analysis system that uses Natural Language Processing (NLP) and Machine Learning to classify news articles as real or fake.
 
 The system leverages BERT (Bidirectional Encoder Representations from Transformers) for deep semantic understanding of text and integrates it with a Random Forest classifier for efficient and accurate classification.
