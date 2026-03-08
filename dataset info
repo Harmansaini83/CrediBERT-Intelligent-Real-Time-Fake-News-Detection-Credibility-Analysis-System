@@ -1,0 +1,17 @@
+Dataset
+
+This project uses the WELFake Dataset for training and evaluation.
+
+The dataset contains a large collection of real and fake news articles used for misinformation detection research.
+
+Dataset Features:
+- title
+- text
+- label (real or fake)
+
+Label Description:
+0 = Real News
+1 = Fake News
+
+Due to GitHub storage limitations, the dataset is not included in this repository.
+
