@@ -71,34 +71,6 @@ The hybrid architecture of BERT embeddings with Random Forest classifier improve
 
 ---
 
-# Installation
-
-Clone the repository
-
-```
-git clone https://github.com/yourusername/credibert.git
-```
-
-Navigate to the project directory
-
-```
-cd credibert
-```
-
-Install dependencies
-
-```
-pip install -r requirements.txt
-```
-
-Run the model
-
-```
-python main.py
-```
-
----
-
 # Applications
 
 Fake news detection platforms  
